@@ -1,4 +1,4 @@
-# Boom
+# Boom - ASCII art
 
 This repo contains code (my own implementations) for a project from the Udemy course "The Modern Python 3 Bootcamp", which is the course that brought Python to my life and enabled me to start utilising it personally and professionally for data analysis and process automation (among others)!
 
